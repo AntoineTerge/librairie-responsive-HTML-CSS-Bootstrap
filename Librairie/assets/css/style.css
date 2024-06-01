@@ -1,27 +1,22 @@
 .backgroundHeader {
     background-image: linear-gradient(#477670, #2b675f, #1f4e46);
 }
-
 .backgroundHeaderImage {
     width: 10rem;
 }
-
 .imageFooter {
     width: 6rem;
 }
-
 .navbar-light {
     color: #477670;
     font-weight: bold;
 }
-
 .nav-link,
 .form-control,
 h1,
 h2 {
     color: #1f4e46;
 }
-
 h2 {
     font-size: 1.4rem;
 }
